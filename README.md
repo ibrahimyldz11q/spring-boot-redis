@@ -1,5 +1,5 @@
 # spring-boot-redis
-spring-boot-redis crud proc
+spring boot redis rest api
 
 https://spring.io/projects/spring-data-redis/
 
